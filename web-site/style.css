@@ -1,0 +1,109 @@
+* {
+ margin: 0;
+
+}
+
+.head{
+background-color: #f4623a;
+padding:20px 0px 120px 0px;
+text-align: center;
+
+}
+.headtext{
+color: #fff;
+
+}
+.text{
+        color: rgba(255,255,255,.5);
+        font-size:20px;
+        padding-bottom: 25px;
+        padding-top: 20px;
+}
+.but{
+        padding: 1.25rem 2.25rem;
+        font-size: .85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+        padding-bottom: 20px;
+       background-color: #fff;
+}
+.h{
+   color: #fff;
+  
+}
+.medium h1{
+    text-align: center;
+    padding-top: 100px;
+}
+.bot{
+        text-align: center;
+        padding-top: 20px;
+        color: #f4623a
+}
+.top{
+        color: black
+}
+.col { 
+        text-align: center;
+}
+.row span{
+        display: inline-block;
+        width: 150px;
+        height: 150px;
+        color: #f4623a;
+        border-radius: 100%;
+        line-height: 200px;
+}
+.meta{
+        display: flex;
+        justify-content: space-around
+}
+.icon i{
+        font-size: 70px;
+}
+.col p{
+        color: #6c757d;
+        margin-bottom: 100px;
+}
+.bottom{
+        text-align: center;
+        padding: 70px;
+        background-color: #343a40
+}
+.butto{
+    padding: 1.25rem 2.25rem;
+    font-size: .85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem
+}
+.bottom h1{
+        color: #fff;
+        padding-bottom: 20px;     
+}
+.finish{
+       text-align: center;
+       padding: 8rem 0; 
+}
+.haz{
+        display: flex;
+        justify-content: space-evenly
+}
+.finish h3{
+        color: #f4623a
+}
+.finish p{
+        color: #6c757d;
+        padding-top: 20px;
+        padding-bottom: 60px;
+}
+.bol i{
+        color: #6c757d;
+        padding-bottom: 20px;
+}
+.bol h2.redtext{
+        color:#f4623a;
+}
